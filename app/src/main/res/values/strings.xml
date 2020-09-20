@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aposentadoria</string>
+    <string name="calcular">Calcular</string>
+    <string name="insira_sua_idade">Insira sua idade</string>
+    <string name="insira_seu_sexo">Insira seu sexo</string>
+    <string name="calcule_quanto_tempo_falta_para_sua_aposetadoria">Calcule quanto tempo falta para sua aposetadoria</string>
+</resources>
